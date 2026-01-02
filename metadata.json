@@ -1,0 +1,7 @@
+{
+  "name": "پادکست و خلاصه از سخنرانی یک ساعته",
+  "description": "An advanced AI-powered tool to clean lecture audio, generate professional summaries, and create highlight podcasts using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
